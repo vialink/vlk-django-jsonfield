@@ -38,6 +38,14 @@ Contributing
 
 Do the usual github fork and pull request dance.
 
+Authors
+-------
+
+2013 [Pedro Ferreira] (https://github.com/pedroferreira1)
+2013 [Patrícia Borges] (https://github.com/patriciaborges)
+2013 [Marcelo Salhab Brogliato] (https://github.com/msbrogli)
+2013 [Jan Segre] (https://github.com/jansegre)
+
 License
 -------
 
