@@ -1,7 +1,7 @@
 VLK JSONField
 =============
 
-A model JSONField with an integrated form.
+A model JSONField with an integrated form for django.
 
 Installation
 ------------
