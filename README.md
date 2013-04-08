@@ -28,6 +28,11 @@ To use this field in a form just use the form field with the same name of your m
 
 The right side is the usual of a form field.
 
+Who is using
+------------
+
+This project is used in Vialink software since 2013 January. Are you using it? Let us know :)
+
 Contributing
 ------------
 
