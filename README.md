@@ -8,7 +8,9 @@ Before doing this app we looked up for a JSONField implementation, but all that 
 Installation
 ------------
 
-Just copy this project to any folder in your computer.
+Just copy this project to any folder in your computer or use pip.
+
+    pip install vlk-django-jsonfield
 
 Usage
 -----
