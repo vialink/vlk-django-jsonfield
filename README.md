@@ -31,7 +31,7 @@ The right side is the usual of a form field.
 Who is using
 ------------
 
-This project is used in Vialink software since 2013 January. Are you using it? Let us know :)
+This project is used in Vialink software since January, 2013. Are you using it? Let us know :)
 
 Contributing
 ------------
