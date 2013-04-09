@@ -3,6 +3,8 @@ VLK JSONField
 
 A model JSONField with an integrated form for django.
 
+Before doing this app we looked up for a JSONField implementation, but all that we have found had nothing that fit our needs. Our needs are just a model field to store a json string and a form that is able to validate user input against our json fields requirements.
+
 Installation
 ------------
 
