@@ -76,6 +76,6 @@ class VLKJSONField(models.TextField):
 
 try:
     from south.modelsinspector import add_introspection_rules
-    add_introspection_rules([], ["^fields\.VLKJSONField"])
+    add_introspection_rules([], ["^vlkjsonfield\.fields\.VLKJSONField"])
 except ImportError:
     pass
